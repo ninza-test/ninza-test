@@ -1,0 +1,16 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "ci/cd pipeline integration demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no fff specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.21.0",
+    "hellf":"3.2",
+    "@hello/cool": "3.3"
+  }
+}
